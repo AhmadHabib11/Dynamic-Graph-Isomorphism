@@ -4,7 +4,6 @@ Overview:
  In this project, I collaborated with a teammate to analyze football passing strategies using concepts from temporal subgraph isomorphism. We modeled passes between players as a dynamic graph, where nodes represent players and edges represent time-stamped passes. Our goal was to detect recurring subgraph patterns that indicate effective team strategies. We posted our research and implementation in two phases on YouTube as part of our project presentation.
  
 What We Implemented (Phase 1):
-
 🔗 Phase 1 – Data Pipeline & Graph Modeling
 
 Understood the research papers by Oberoi et al. (2023) and Bourgeais et al. (2023).
